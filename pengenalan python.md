@@ -1,5 +1,7 @@
 # Pengenalan Python
 
+![](https://github.com/FII14/Python3/blob/main/gambar/20230709_012246.jpg)
+
 ## Apa itu Python?
 
 Python adalah bahasa pemrograman yang populer. Dibuat oleh Guido van Rossum, dan dirilis pada tahun 1991.
